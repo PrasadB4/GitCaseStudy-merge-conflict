@@ -13,7 +13,6 @@ feaature2()
 Initial Security()
 {
 	 //Sample Code
-	 //
 }
 
 }
